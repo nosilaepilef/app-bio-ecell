@@ -9,7 +9,7 @@ function StoreOne() {
     <div className="container">
       <Header/>
       <div className="content-one">
-      <h1>Atendimento Virtual</h1>
+      <h1>Ecell Atendimento Virtual</h1>
       <span><p>Conectando Você às Melhores</p><p>Peças e Acessórios 📱💚</p></span>
       <SocialMedia/>
       </div>

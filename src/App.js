@@ -5,6 +5,8 @@ import StoreTwo from "./pages/stores/StoreTwo";
 import StoreThree from "./pages/stores/StoreThree";
 import StoreFour from "./pages/stores/StoreFour";
 import StoreFive from "./pages/stores/StoreFive";
+import StoreSix from "./pages/stores/StoreSix";
+import StoreSeven from "./pages/stores/StoreSeven";
 
 function App() {
   return (
@@ -16,6 +18,8 @@ function App() {
         <Route path="/storethree" element={<StoreThree/>} />
         <Route path="/storefour" element={<StoreFour/>} />
         <Route path="/storefive" element={<StoreFive/>} />
+        <Route path="/storesix" element={<StoreSix/>} />
+        <Route path="/storeseven" element={<StoreSeven/>} />
       </Routes>
     </Router>
   );

@@ -9,7 +9,7 @@ function StoreTwo() {
     <div className="container">
       <Header/>
       <div className="content-one">
-      <h1>Loja Várzea Grande MT</h1>
+      <h1>Ecell Várzea Grande MT</h1>
       <span><p>Conectando Você às Melhores</p><p>Peças e Acessórios 📱💚</p></span>
       <SocialMedia/>
       </div>

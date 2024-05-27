@@ -9,7 +9,7 @@ function StoreThree() {
     <div className="container">
       <Header/>
       <div className="content-one">
-      <h1>Loja Sinop MT</h1>
+      <h1>Ecell Sinop MT</h1>
       <span><p>Conectando Você às Melhores</p><p>Peças e Acessórios 📱💚</p></span>
       <SocialMedia/>
       </div>

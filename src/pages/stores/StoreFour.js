@@ -9,7 +9,7 @@ function StoreFour() {
     <div className="container">
       <Header/>
       <div className="content-one">
-      <h1>Loja Rondonópolis MT</h1>
+      <h1>Ecell Rondonópolis MT</h1>
       <span><p>Conectando Você às Melhores</p><p>Peças e Acessórios 📱💚</p></span>
       <SocialMedia/>
       </div>

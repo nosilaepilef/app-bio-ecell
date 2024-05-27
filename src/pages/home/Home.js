@@ -18,10 +18,12 @@ function Home() {
       </div>
 
       <div className="content-two">
-          <Link to="/storeone" className='nav-link'>Atendimento Virtual</Link>
-          <Link to="/storetwo" className='nav-link'>Loja Várzea Grande MT</Link>
-          <Link to="/storethree" className='nav-link'>Loja Sinop MT</Link>
-          <Link to="/storefour" className='nav-link'>Loja Rondonópolis MT</Link>
+          <Link to="/storeone" className='nav-link'>Ecell Atendimento Virtual</Link>
+          <Link to="/storetwo" className='nav-link'>Ecell Várzea Grande MT</Link>
+          <Link to="/storethree" className='nav-link'>Ecell Sinop MT</Link>
+          <Link to="/storefour" className='nav-link'>Ecell Rondonópolis MT</Link>
+          <Link to="/storesix" className='nav-link'>Shop Barber</Link>
+          <Link to="/storeseven" className='nav-link'>Evapor Tabacaria</Link>
           <Link to="/storefive" className='nav-link'>Outros Departamentos</Link>
       </div>
       <CopyRight/>
