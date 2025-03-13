@@ -19,7 +19,8 @@ function StoreSix() {
             </div>
       </div>
       <div className="content-two">
-          <a target='_blank' href='https://api.whatsapp.com/send/?phone=556593095868&text=Oi%2C+pode+me+ajudar%3F&type=phone_number&app_absent=0'>Vendedor Vinicius</a>
+          <a target='_blank' href='https://api.whatsapp.com/send/?phone=556593095868&text=Oi%2C+pode+me+ajudar%3F&type=phone_number&app_absent=0'>Vendedor Virtual</a>
+          <a target='_blank' href='https://api.whatsapp.com/send/?phone=5565984467798&text=Oi%2C+pode+me+ajudar%3F&type=phone_number&app_absent=0'>Vendedor Externo</a>
       </div>
       <Footer/>
     </div>
