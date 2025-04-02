@@ -1,7 +1,7 @@
 import '../../../src/styles.css'
 import Header from '../../components/header/Header';
 import Footer from '../../components/footer/Footer';
-import {FaInstagram, FaTiktok} from 'react-icons/fa'
+import {FaInstagram, FaTiktok, FaGooglePlay, FaApple} from 'react-icons/fa'
 
 
 function StoreSix() {
