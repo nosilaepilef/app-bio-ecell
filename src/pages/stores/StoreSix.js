@@ -17,8 +17,8 @@ function StoreSix() {
           <a target='_blank' href='https://www.tiktok.com/@lojaecell_oficial'><FaTiktok size={20} color='#f0f0f0'/></a>
           <a target='_blank' href='https://play.google.com/store/apps/details?id=br.inf.ecell.ecellacess&pcampaignid=web_share'><FaGooglePlay size={19} color='#f0f0f0'/></a>
           <a target='_blank' href='https://apps.apple.com/app/id1531213629'><FaApple size={20} color='#f0f0f0'/></a>
-                </div>
-            </div>
+        </div>
+      </div>
       </div>
       <div className="content-two">
           <a target='_blank' href='https://api.whatsapp.com/send/?phone=556593095868&text=Oi%2C+pode+me+ajudar%3F&type=phone_number&app_absent=0'>Vendedor Virtual</a>
