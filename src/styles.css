@@ -124,6 +124,23 @@ h1{
     text-decoration: none;
 }
 
+a.nav-link.redes {
+    background: transparent;
+    border: 2px solid;
+    border-image: linear-gradient(45deg, #6e00ff, #ff9900) 1;
+    border-radius: 8px;
+}
+
+a.nav-link.app {
+    background: transparent;
+    border: 2px solid;
+    border-radius: 0px !important;
+}
+
+a.nav-link.app:hover, a.nav-link.redes:hover {
+    color: #d3d3d3 !important;
+}
+
 .content-two > a:hover{
     background-color: #09390C;
 }
