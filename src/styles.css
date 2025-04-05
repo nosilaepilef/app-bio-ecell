@@ -138,6 +138,7 @@ a.nav-link.app {
 }
 
 a.nav-link.app:hover, a.nav-link.redes:hover {
+    background: transparent;
     color: #d3d3d3 !important;
 }
 
