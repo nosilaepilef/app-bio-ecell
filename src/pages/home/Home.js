@@ -24,6 +24,8 @@ function Home() {
           <Link to="/storethree" className='nav-link'>Ecell Sinop MT</Link>
           <Link to="/storefour" className='nav-link'>Ecell Rondonópolis MT</Link>
           <Link to="/storefive" className='nav-link'>Outros Departamentos</Link>
+          <Link to="/storeseven" className='nav-link redes'>Siga a gente!</Link>
+          <Link to="/storeeight" className='nav-link app'>Baixe nosso App!</Link>
       </div>
       <CopyRight/>
       
