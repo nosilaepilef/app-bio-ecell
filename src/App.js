@@ -7,6 +7,8 @@ import StoreFour from "./pages/stores/StoreFour";
 import StoreFive from "./pages/stores/StoreFive";
 import StoreSix from "./pages/stores/StoreSix";
 import StoreSeven from "./pages/stores/StoreSeven";
+import StoreEight from "./pages/stores/StoreEight";
+import StoreNine from "./pages/stores/StoreNine";
 
 function App() {
   return (
@@ -20,6 +22,8 @@ function App() {
         <Route path="/storefive" element={<StoreFive/>} />
         <Route path="/storesix" element={<StoreSix/>} />
         <Route path="/storeseven" element={<StoreSeven/>} />
+        <Route path="/storeeight" element={<StoreEight/>} />
+        <Route path="/storenine" element={<StoreNine/>} />
       </Routes>
     </Router>
   );
